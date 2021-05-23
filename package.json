@@ -1,0 +1,16 @@
+{
+  "name": "schedule",
+  "version": "1.0.0",
+  "description": "Schedule app backend.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9",
+    "morgan": "^1.10.0"
+  }
+}
